@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hi there 👋
+## Career
+### Konkuk Univ. Department of Smart ICT Convergence
+### Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher
 <!--
 **aqoudayo/aqoudayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
