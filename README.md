@@ -2,7 +2,7 @@
 ## Career
 ### Konkuk Univ. Department of Smart ICT Convergence
 ### Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher
->> https://sites.google.com/view/kuictm/people/members
+> https://sites.google.com/view/kuictm/people/members
 <!--
 **aqoudayo/aqoudayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
