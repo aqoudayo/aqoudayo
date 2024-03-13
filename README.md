@@ -14,8 +14,9 @@ Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher</br
 <div align="center">
 
 [![Aqoudayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqoudayo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 [![Aqoudayo's github activity graph](https://activity-graph.herokuapp.com/graph?username=aqoudayo&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 
 
 <!--
