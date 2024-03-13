@@ -3,6 +3,9 @@
 ### Konkuk Univ. Department of Smart ICT Convergence
 ### Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher
 > https://sites.google.com/view/kuictm/people/members
+
+
+![aqoudayo's GitHub stats](https://github-readme-stats.vercel.app/api?aqoudayo=anuraghazra&show_icons=true&theme=radical)
 <!--
 **aqoudayo/aqoudayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
