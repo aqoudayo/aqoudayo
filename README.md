@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Aqoudayo's%20Workspace&fontSize=55)
 
 ### Hi there 👋 </br>
+<details>
+<summary>About Me</summary>
 ## Career
 ### Konkuk Univ. Department of Smart ICT Convergence
 ### Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher
 > https://sites.google.com/view/kuictm/people/members
+</summary>
+
 
 
 ![aqoudayo's GitHub stats](https://github-readme-stats.vercel.app/api?aqoudayo=anuraghazra&show_icons=true&theme=radical)
