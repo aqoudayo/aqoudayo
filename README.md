@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Aqoudayo's%20Workspace&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Aqoudayo's%20Workspace&fontSize=55)
 
 ### Hi there 👋 </br>
 ## Career
