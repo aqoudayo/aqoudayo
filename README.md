@@ -3,9 +3,9 @@
 ### Hi there 👋 </br>
 <details>
 <summary>About Me</summary>
-Career
-Konkuk Univ. Department of Smart ICT Convergence
-Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher
+#Career</br>
+Konkuk Univ. Department of Smart ICT Convergence</br>
+Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher</br>
 </summary>
 </details>
 > https://sites.google.com/view/kuictm/people/members
