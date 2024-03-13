@@ -10,14 +10,7 @@ Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher</br
 </details>
 > https://sites.google.com/view/kuictm/people/members
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqoudayo&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-[![Aqoudayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqoudayo)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqoudayo&theme=nord_dark)
 
 
 
