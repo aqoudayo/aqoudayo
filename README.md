@@ -8,7 +8,7 @@ Konkuk Univ. Department of Smart ICT Convergence</br>
 Konkuk Univ. Department of Industrial Engineering ICTM Laboratory Researcher</br>
 </summary>
 </details>
-> https://sites.google.com/view/kuictm/people/members
+> https://sites.google.com/view/kuictm/people/members</br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqoudayo&theme=nord_dark)
 
